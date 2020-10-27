@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855360355450",
+    "firebase_url": "https://labtest-c7387.firebaseio.com",
+    "project_id": "labtest-c7387",
+    "storage_bucket": "labtest-c7387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855360355450:android:ed88f9e08b6c2a1b164fc3",
+        "android_client_info": {
+          "package_name": "com.labtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855360355450-ktpeecgme5v12gk6ovbpeh25516tb20s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEhH8vGJtp12896awv8ewWTIan8O-Pscc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855360355450-ktpeecgme5v12gk6ovbpeh25516tb20s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
